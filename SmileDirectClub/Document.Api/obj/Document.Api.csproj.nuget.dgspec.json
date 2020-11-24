@@ -1,0 +1,280 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\smiledirectclub\\SmileDirectClub\\Document.Api\\Document.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\smiledirectclub\\SmileDirectClub\\Document.Api\\Document.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\smiledirectclub\\SmileDirectClub\\Document.Api\\Document.Api.csproj",
+        "projectName": "Document.Api",
+        "projectPath": "C:\\Projects\\smiledirectclub\\SmileDirectClub\\Document.Api\\Document.Api.csproj",
+        "packagesPath": "C:\\Users\\Aisen\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\smiledirectclub\\SmileDirectClub\\Document.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aisen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Projects\\smiledirectclub\\SmileDirectClub\\SmileDirectClub.Business\\SmileDirectClub.Business.csproj": {
+                "projectPath": "C:\\Projects\\smiledirectclub\\SmileDirectClub\\SmileDirectClub.Business\\SmileDirectClub.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\smiledirectclub\\SmileDirectClub\\SmileDirectClub.Business\\SmileDirectClub.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\smiledirectclub\\SmileDirectClub\\SmileDirectClub.Business\\SmileDirectClub.Business.csproj",
+        "projectName": "SmileDirectClub.Business",
+        "projectPath": "C:\\Projects\\smiledirectclub\\SmileDirectClub\\SmileDirectClub.Business\\SmileDirectClub.Business.csproj",
+        "packagesPath": "C:\\Users\\Aisen\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\smiledirectclub\\SmileDirectClub\\SmileDirectClub.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aisen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Projects\\smiledirectclub\\SmileDirectClub\\SmileDirectClub.Common\\SmileDirectClub.Common.csproj": {
+                "projectPath": "C:\\Projects\\smiledirectclub\\SmileDirectClub\\SmileDirectClub.Common\\SmileDirectClub.Common.csproj"
+              },
+              "C:\\Projects\\smiledirectclub\\SmileDirectClub\\SmileDirectClub.DataAccess\\SmileDirectClub.DataAccess.csproj": {
+                "projectPath": "C:\\Projects\\smiledirectclub\\SmileDirectClub\\SmileDirectClub.DataAccess\\SmileDirectClub.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\smiledirectclub\\SmileDirectClub\\SmileDirectClub.Common\\SmileDirectClub.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\smiledirectclub\\SmileDirectClub\\SmileDirectClub.Common\\SmileDirectClub.Common.csproj",
+        "projectName": "SmileDirectClub.Common",
+        "projectPath": "C:\\Projects\\smiledirectclub\\SmileDirectClub\\SmileDirectClub.Common\\SmileDirectClub.Common.csproj",
+        "packagesPath": "C:\\Users\\Aisen\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\smiledirectclub\\SmileDirectClub\\SmileDirectClub.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aisen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\smiledirectclub\\SmileDirectClub\\SmileDirectClub.DataAccess\\SmileDirectClub.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\smiledirectclub\\SmileDirectClub\\SmileDirectClub.DataAccess\\SmileDirectClub.DataAccess.csproj",
+        "projectName": "SmileDirectClub.DataAccess",
+        "projectPath": "C:\\Projects\\smiledirectclub\\SmileDirectClub\\SmileDirectClub.DataAccess\\SmileDirectClub.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Aisen\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\smiledirectclub\\SmileDirectClub\\SmileDirectClub.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aisen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Projects\\smiledirectclub\\SmileDirectClub\\SmileDirectClub.Common\\SmileDirectClub.Common.csproj": {
+                "projectPath": "C:\\Projects\\smiledirectclub\\SmileDirectClub\\SmileDirectClub.Common\\SmileDirectClub.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

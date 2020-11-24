@@ -1,0 +1,13 @@
+C:\Projects\smiledirectclub\SmileDirectClub\SmileDirectClub.Common\bin\Debug\netcoreapp3.1\SmileDirectClub.Common.exe
+C:\Projects\smiledirectclub\SmileDirectClub\SmileDirectClub.Common\bin\Debug\netcoreapp3.1\SmileDirectClub.Common.deps.json
+C:\Projects\smiledirectclub\SmileDirectClub\SmileDirectClub.Common\bin\Debug\netcoreapp3.1\SmileDirectClub.Common.runtimeconfig.json
+C:\Projects\smiledirectclub\SmileDirectClub\SmileDirectClub.Common\bin\Debug\netcoreapp3.1\SmileDirectClub.Common.runtimeconfig.dev.json
+C:\Projects\smiledirectclub\SmileDirectClub\SmileDirectClub.Common\bin\Debug\netcoreapp3.1\SmileDirectClub.Common.dll
+C:\Projects\smiledirectclub\SmileDirectClub\SmileDirectClub.Common\bin\Debug\netcoreapp3.1\SmileDirectClub.Common.pdb
+C:\Projects\smiledirectclub\SmileDirectClub\SmileDirectClub.Common\obj\Debug\netcoreapp3.1\SmileDirectClub.Common.csprojAssemblyReference.cache
+C:\Projects\smiledirectclub\SmileDirectClub\SmileDirectClub.Common\obj\Debug\netcoreapp3.1\SmileDirectClub.Common.csproj.CoreCompileInputs.cache
+C:\Projects\smiledirectclub\SmileDirectClub\SmileDirectClub.Common\obj\Debug\netcoreapp3.1\SmileDirectClub.Common.AssemblyInfoInputs.cache
+C:\Projects\smiledirectclub\SmileDirectClub\SmileDirectClub.Common\obj\Debug\netcoreapp3.1\SmileDirectClub.Common.AssemblyInfo.cs
+C:\Projects\smiledirectclub\SmileDirectClub\SmileDirectClub.Common\obj\Debug\netcoreapp3.1\SmileDirectClub.Common.dll
+C:\Projects\smiledirectclub\SmileDirectClub\SmileDirectClub.Common\obj\Debug\netcoreapp3.1\SmileDirectClub.Common.pdb
+C:\Projects\smiledirectclub\SmileDirectClub\SmileDirectClub.Common\obj\Debug\netcoreapp3.1\SmileDirectClub.Common.genruntimeconfig.cache
